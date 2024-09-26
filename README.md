@@ -6,8 +6,9 @@
 Ing. Químico | Universidad de Carabobo (_Febrero de 2018_)
 
 ## Certificaciones
-- Microsoft Power BI Data Analyst | Coursera (_Junio de 2024_)
-- Microsoft Certified: Power Platform Fundamentals | Coursera (_Febrero_2024_)
+**Microsoft Power BI Data Analyst | Coursera (_Junio de 2024_)**
+
+**Microsoft Certified: Power Platform Fundamentals | Coursera (_Febrero_2024_)**
 
 ## Experiencia Laboral
 **Analista de datos & Desarrollador Power Platform en Walmart Chile (_Diciembre 2021 al Presente_)**
