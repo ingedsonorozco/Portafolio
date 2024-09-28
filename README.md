@@ -20,6 +20,7 @@ Ing. Químico | Universidad de Carabobo (_Febrero de 2018_)
 ## Proyectos
 ### Solución digital para gestión de procesos productivos en una fábrica de alimentos
 [Ver Muestra](https://youtu.be/hXp16OyOjEc)
+
 Solución desarrollada para monitorear, verificar y trazar  las etapas de una línea productiva usando **Power Apps**, con el objetivo de digitalizar este proceso que anteriormente se realizaba en papel. Esta herramienta, permitió un mejor control de los procesos productivos al integrar la aplicación con flujos automáticos de **Power Automate** que notificaban en tiempo real desviaciones de monitoreos, modificaciones de registros y reportes de verificación. Tambien se eliminó la digitación manual para la obtención de los KPI'S los cuales se obtienen directamente mediante informes y reportes en **Power BI**.
 
 ![ Solución digital para gestión de procesos productivos](/assets/img/App Producción.jpg)
