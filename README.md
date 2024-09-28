@@ -6,7 +6,7 @@
 Ing. Químico | Universidad de Carabobo (_Febrero de 2018_)
 
 ## Certificaciones
-- Microsoft Power BI Data Analyst, Coursera (_Junio de 2024_)
+[- Microsoft Power BI Data Analyst, Coursera (_Junio de 2024_)](https://coursera.org/verify/professional-cert/Z6MNMYPZKJMQ)
 - Microsoft Certified: Power Platform Fundamentals,  Coursera (_Febrero_2024_)
 
 ## Experiencia Laboral
