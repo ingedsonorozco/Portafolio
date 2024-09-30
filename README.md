@@ -28,5 +28,5 @@ Solución desarrollada para monitorear, verificar y trazar  las etapas de una l�
 ### Herramienta para gestión de excepciones
 [Ver Muestra](https://youtu.be/-wixUv334Uw)
 
-Se trata de una herramienta que permite administrar excepciones asociadas a alguna etapa del proceso productivo del cliente. La solicitud de excepciones se realiza mediante un formulario web basada en **Power Apps**, una vez que se registra la solicitud, se desencadena un flujo automático (**Power Automate**)  que envia un comprobante de solicitud por correo a las partes interesadas y también una solicitud de aprobación que llega a los roles asignados, cuando se emite una respuesta al flujo de aprobación esta se notifica por correo a todas partes involucradas.
+Se trata de una herramienta que permite administrar excepciones asociadas a alguna etapa del proceso productivo del cliente. La solicitud de excepciones se realiza mediante un formulario web basado en **Power Apps**, una vez que se registra la solicitud, se desencadena un flujo automático (**Power Automate**)  que envia un comprobante de solicitud por correo a las partes interesadas y también una solicitud de aprobación que llega a los roles asignados, cuando se emite una respuesta al flujo de aprobación esta se notifica por correo a todas partes involucradas.
 ![Gestion de excepciones](assets/img/Excepciones.jpg)
