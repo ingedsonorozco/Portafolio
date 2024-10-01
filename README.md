@@ -36,3 +36,12 @@ Se trata de una herramienta que permite administrar excepciones asociadas a algu
 Consiste en una aplicación de lienzo desarrollada en **Power Apps** que permite registrar los resultados de un análisis de producto, el modelo de datos está diseñado para filtrar los productos según la línea productiva seleccionada y los parámetros de producto se adaptan dinámicamente según el producto que se seleccione, una vez registradas las mediciones la app determina el resultado mediante funciones de estadística básica y lo muestra en contraste con los valores aceptables para que el analista pueda escribir una conclusión o comentarios al respecto. Al guardar los resultados estos desencadenan un flujo de nube automatizado que envía el reporte del análisis en formato HTML por correo electrónico para que sea visto por las partes interesadas. Finalmente los datos registrados están disponibles en una lista SharePoint para que puedan ser utilizados para un análisis posterior mas profundo.
 ![CoA de Producto](/assets/img/AppAnálisisProducto.jpg)
 
+### Archivo para gestión de Productos No Conformes (PNC)
+[Ver Copia de Archivos](/Documentos/Gestión de PNC)
+
+[Ver Muestra](https://youtu.be/yngkBsDN5Gg)
+
+Esta solución permite mediante un formulario en **Excel**  la gestión de eventos de PNC de una organización, el formulario tiene macros de *VBA* que permiten generar un informe en formato HTML directamente en la App de Outlook, también con el ID del evento se puede consultar y modificar los registros si es necesario. Estos registros se almacenan en un modelo de datos plantos que despues es analizado mediante **Power BI**,el informe PBI se encuentra publicado en un área de trabajo y tiene configurada actualización automática, los miembros del área de trabajo puede consultar los KPI'S asociados a los PNC cuando sea necesario.
+[!Gestión de PNC](assets/img/Gestión_PNC.png)
+
+
