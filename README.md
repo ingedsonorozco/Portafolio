@@ -37,7 +37,7 @@ Consiste en una aplicación de lienzo desarrollada en **Power Apps** que permite
 ![CoA de Producto](/assets/img/AppAnálisisProducto.jpg)
 
 ### Archivo para gestión de Productos No Conformes (PNC)
-[Ver Copia de Archivos](/Documentos/Gestión de PNC)
+[Ver Copia de Archivos](/Documentos/Gestión de PNC/Indicador de Costos de No Calidad.pbix)
 
 [Ver Muestra](https://youtu.be/yngkBsDN5Gg)
 
