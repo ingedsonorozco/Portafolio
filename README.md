@@ -37,11 +37,11 @@ Consiste en una aplicación de lienzo desarrollada en **Power Apps** que permite
 ![CoA de Producto](/assets/img/AppAnálisisProducto.jpg)
 
 ### Archivo para gestión de Productos No Conformes (PNC)
-[Ver Copia de Archivos](/Documentos/Gestión de PNC/Indicador de Costos de No Calidad.pbix)
+[Ver Copia de Archivos](assets/Documentos/GestionPNC/PNC.xlsm)
 
 [Ver Muestra](https://youtu.be/yngkBsDN5Gg)
 
 Esta solución permite mediante un formulario en **Excel**  la gestión de eventos de PNC de una organización, el formulario tiene macros de *VBA* que permiten generar un informe en formato HTML directamente en la App de Outlook, también con el ID del evento se puede consultar y modificar los registros si es necesario. Estos registros se almacenan en un modelo de datos plantos que despues es analizado mediante **Power BI**,el informe PBI se encuentra publicado en un área de trabajo y tiene configurada actualización automática, los miembros del área de trabajo puede consultar los KPI'S asociados a los PNC cuando sea necesario.
-[!Gestión de PNC](assets/img/Gestión_PNC.png)
+[!Gestión de PNC](/assets/img/Gestión_PNC.png)
 
 
