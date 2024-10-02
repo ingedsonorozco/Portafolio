@@ -44,4 +44,11 @@ Consiste en una aplicación de lienzo desarrollada en **Power Apps** que permite
 Esta solución permite mediante un formulario en **Excel**  la gestión de eventos de PNC de una organización, el formulario tiene macros de *VBA* que permiten generar un informe en formato HTML directamente en la App de Outlook, también con el ID del evento se puede consultar y modificar los registros si es necesario. Estos registros se almacenan en un modelo de datos plantos que despues es analizado mediante **Power BI**,el informe PBI se encuentra publicado en un área de trabajo y tiene configurada actualización automática, los miembros del área de trabajo puede consultar los KPI'S asociados a los PNC cuando sea necesario.
 ![Gestión de PNC](/assets/img/Gestión_PNC.png)
 
+### Archivo PBI para compartir datos por correo electrónico
+
+[Ver Muestra](https://youtu.be/0jvFshSrLZk)
+
+Este archivo permite filtrar datos almacenados en una base datos y enviarlos posteriormente en el cuerpo HTML de un  correo electrónico, esta solución facilita la forma de compartir datos específicos sin la necesidad de otorgar permisos especiales.
+
+
 
