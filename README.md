@@ -49,6 +49,7 @@ Esta solución permite mediante un formulario en **Excel**  la gestión de event
 [Ver Muestra](https://youtu.be/0jvFshSrLZk)
 
 Este archivo permite filtrar datos almacenados en una base datos y enviarlos posteriormente en el cuerpo HTML de un  correo electrónico, esta solución facilita la forma de compartir datos específicos sin la necesidad de otorgar permisos especiales.
+![Compartir Datos](assets/img/CompartirDatos.jpg)
 
 
 
