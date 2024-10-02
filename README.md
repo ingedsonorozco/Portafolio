@@ -1,5 +1,3 @@
-
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="edson-orozco-61783a186" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cl.linkedin.com/in/edson-orozco-61783a186?trk=profile-badge">Edson Orozco</a></div>
 # Analista de datos & Desarrollador Power Platform          
 
 ##### Habilidades Técnicas: Power BI, Power Apps, Power Automate, Excel
