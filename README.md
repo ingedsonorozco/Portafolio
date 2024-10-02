@@ -37,7 +37,7 @@ Consiste en una aplicación de lienzo desarrollada en **Power Apps** que permite
 ![CoA de Producto](/assets/img/AppAnálisisProducto.jpg)
 
 ### Archivo para gestión de Productos No Conformes (PNC)
-[Ver Archivos](https://ingedsonorozco.github.io/Portafolio/assets/Documentos/GestionPNC/)
+[Ver Archivos](https://github.com/ingedsonorozco/Portafolio/tree/42105f63756e931460c11c83730b54f9ea849b94/assets/Documentos/GestionPNC)
 
 [Ver Muestra](https://youtu.be/yngkBsDN5Gg)
 
