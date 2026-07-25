@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ── Imagen de perfil circular ──────────────────────── */
+header img {
+  border-radius: 50%;
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  object-position: center top;
+  display: block;
+  margin: 0 auto 12px auto;
+  border: 3px solid #0053e2;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
+}
